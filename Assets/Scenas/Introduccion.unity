@@ -220,7 +220,7 @@ VideoPlayer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1001335299}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 053ab7728a4c27a4b998768c8a31d03a, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: bcfe517354b726d439060bf4175c7722, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera: {fileID: 1155636106}
   m_TargetTexture: {fileID: 0}
@@ -394,6 +394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Video: {fileID: 1001335301}
+  escena: Menu
   rep: 0
 --- !u!1 &1155636103
 GameObject:

@@ -6,6 +6,7 @@ using UnityEngine.Video;
 public class cambio_introduccion : MonoBehaviour {
 
 	public VideoPlayer Video;
+	public string escena;
 	public int rep;
 	void Start (){
 		Video = GetComponent<VideoPlayer> ();
@@ -19,7 +20,7 @@ public class cambio_introduccion : MonoBehaviour {
 			rep = 1;
 		} 
 		if (!Video.isPlaying && rep==1) {
-			Application.LoadLevel("prueba");
+			Application.LoadLevel(escena);
 		} 
 
 

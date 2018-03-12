@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="gopaz.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Configuracion_global.cs">
+    <Files>
+      <File FileName="Assets\Scripts\cambio_introduccion.cs" Line="29" Column="1" />
+      <File FileName="Assets\Configuracion_global.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
